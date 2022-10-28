@@ -91,6 +91,8 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
+![Snake animation](https://github.com/victorsantosg/victorsantosg/blob/output/github-contribution-grid-snake.svg)
+
 
  <p align="end"> <i> Total de Visitas</i>
    <p align="end">
