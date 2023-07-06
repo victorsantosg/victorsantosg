@@ -11,11 +11,11 @@
 victorsantosg/victorsantosg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
+<!---<div align="center">
   <a href="https://github.com/victorsantosg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorsantosg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantosg&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div> --->
   <br>
   <h1>
   🛠️&ensp;<i>LINGUAGENS</i>
