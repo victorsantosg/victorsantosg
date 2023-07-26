@@ -2,7 +2,7 @@
 
 
 - 👀 Estou interessado em um estágio na área de desenvolvimento 
-- 🌱 Atualmente estou no 5° semestre de ADS
+- 🌱 Atualmente estou no 6° semestre de ADS
 - 📘 A minha área de expertise é React.js
 - 🗂 Segue link do meu portfólio https://portfoliovictor.netlify.app
 <h1></h1>
