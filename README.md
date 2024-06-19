@@ -23,7 +23,7 @@
  <table align="center" align="right" height="279px" border: "border-width">
   <tr>
     <td align="center">
-       <a  target='_blank' href=https://www.linkedin.com/in/victor-santos-0a86021b7/><img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon"/></a><br><br>
+       <a  target="_blank" href=https://www.linkedin.com/in/victor-santos-0a86021b7/><img src="https://skillicons.dev/icons?i=linkedin" width="65px" alt="Linkedin icon"/></a><br><br>
       <sub>
         <b>
           <pre>Linkedin</pre>
