@@ -1,9 +1,9 @@
 ## Olá, sou o @victorsantosg 👋
 
 
-- 👀 Estou interessado em um estágio na área de desenvolvimento 
-- 🌱 Atualmente estou no 6° semestre de ADS
-- 📘 A minha área de expertise é React.js
+- 👀 Estou interessado em uma oportunidade na área de desenvolvimento 
+- 🌱 Sou formado em Ánalise e Desenvolvimento de Sistemas
+- 📘 A minha área de expertise é React.js, Vite.js, Express e Node.js
 - 🗂 Segue link do meu portfólio https://portfoliovictor.netlify.app
 <h1></h1>
 <br>
