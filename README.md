@@ -2,7 +2,7 @@
 
 
 - 👀 Estou interessado em uma oportunidade na área de desenvolvimento 
-- 🌱 Sou formado em Ánalise e Desenvolvimento de Sistemas
+- 🌱 Sou formado em Ánalise e Desenvolvimento de Sistemas na UNIFOR
 - 📘 A minha área de expertise é React.js, Vite.js, Express e Node.js
 - 🗂 Segue link do meu portfólio https://portfoliovictor.netlify.app
 <h1></h1>
