@@ -1,7 +1,7 @@
 ## Olá, sou o @victorsantosg 👋
 
 
-- 👀 Estou interessado em uma oportunidade na área de desenvolvimento 
+- 👀 Estou interessado em uma oportunidade na área de Dados 
 - 🌱 Sou formado em Ánalise e Desenvolvimento de Sistemas na UNIFOR
 - 📘 A minha área de expertise é Análise de Dados, utilizando ferramentas como:
 - Python, Pandas, Plotly, PyAutoGUI, LabelEncoder, SQL e técnicas de:
