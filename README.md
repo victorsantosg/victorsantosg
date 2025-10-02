@@ -3,7 +3,10 @@
 
 - 👀 Estou interessado em uma oportunidade na área de desenvolvimento 
 - 🌱 Sou formado em Ánalise e Desenvolvimento de Sistemas na UNIFOR
-- 📘 A minha área de expertise é React.js, Vite.js, Express e Node.js
+- 📘 A minha área de expertise é Análise de Dados, utilizando ferramentas como:
+- Python, Pandas, Plotly, PyAutoGUI, LabelEncoder, SQL e técnicas de:
+- Machine Learning para transformar dados em decisões estratégicas.
+- Além disso, tenho experiência em automação de processos e criação de dashboards interativos.
 - 🗂 Segue link do meu portfólio https://portfoliovictor.netlify.app
 <h1></h1>
 <br>
