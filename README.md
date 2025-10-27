@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Victor Santos
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Gif de programador digitando animado"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="370" alt="Gif de programador digitando animado"/>
 
 📊 **Analista de Dados focado em transformar dados em insights estratégicos para tomada de decisão.**
 💡 Apaixonado por unir **tecnologia e negócios**, aplicando Python e ferramentas de IA para impulsionar resultados reais.
