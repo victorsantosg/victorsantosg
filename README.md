@@ -32,16 +32,99 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+<!-- Skills ############################ 
+-->
 
-<p align="center">
+## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> 🧠 Stack Tecnológica</b><br>
+<br/>
+
+### 🛠️ Tecnologias Analise de Dados
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyAutoGUI-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+   
+
 </p>
+<br/>
+
+### 📋 Linguagens de Programação
+
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
+</p>
+<br>
+
+
+### 🌐 Tecnologias Frontend
+
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a> 
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="React.js" src="https://img.shields.io/badge/React-%23563D7C.svg?logo=react&logoColor=blue"/></a>
+  <a href="https://tailwindcss.com" target="_blank"> 
+    <img alt="Vite.js" src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=yellow"/></a>
+</p>
+<br>
+
+
+### ♾️ DevOps
+
+<p align="left"> 
+ <a href="https://git-scm.com/" target="_blank"> 
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/></a>
+ <a href="https://github.com/" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/></a>
+ <a href="https://github.com/" target="_blank"> 
+    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=bitbucket&logoColor=white"/></a>
+</p>
+<br>
+
+
+### 🎛️ Sistemas Operacionais
+
+<p align="left"> 
+
+ <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/></a>
+ <a href="https://ubuntu.com/" target="_blank"> 
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/></a>
+</p>
+<br>
+
+
+### 💻 IDEs / Editores
+
+<p align="left"> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>   
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=green"></a>
+ <a href="https://www.replit.com" target="_blank"> 
+    <img alt="Replit" src="https://img.shields.io/badge/Replit%20-000000.svg?logo=replit&logoColor=white"/></a>
+</p>
+<br>
+
+
+### 👨‍💻 Outros
+
+<a href="https://wordpress.org" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a>
+<a href="https://www.gimp.com" target="_blank"><img alt="Gimp" src="https://img.shields.io/badge/Gimp%20-%2331A8FF.svg?logo=%20&logoColor=white"></a>
 
 ---
 
