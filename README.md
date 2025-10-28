@@ -51,7 +51,6 @@
 
 <a href="https://github.com/victorsantosg">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorsantosg&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=victorsantosg&theme=radical&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantosg&layout=compact&theme=radical&hide_border=true" />
 </a>
 
