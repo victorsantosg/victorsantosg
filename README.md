@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20de%20Dados;Conhecimento%20em%20várias%20Tecnologias;Fale%20comigo&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20de%20Dados;Conhecimento%20em%20várias%20Tecnologias;Fale%20comigo%20&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
@@ -69,7 +69,8 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Conecte-se comigo 
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/victor-santos-0a86021b7">
