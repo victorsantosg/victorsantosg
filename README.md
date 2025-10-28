@@ -26,7 +26,7 @@
 
 ### 🚀 Sobre mim
 
-🎓 Estudante e entusiasta de tecnologia com foco em **Análise de Dados e Automação**.  
+🎓 Profissional e entusiasta de tecnologia com foco em **Análise de Dados e Automação**.  
 🔍 Busco extrair valor de dados, criando soluções práticas e visuais que apoiam decisões de negócio.  
 🧠 Atualmente aprendendo mais sobre **Machine Learning**, **Plotly** e **SQL avançado**.  
 
