@@ -30,6 +30,8 @@
 🔍 Busco extrair valor de dados, criando soluções práticas e visuais que apoiam decisões de negócio.  
 🧠 Atualmente aprendendo mais sobre **Machine Learning**, **Plotly** e **SQL avançado**.  
 
+---
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 🧠 Stack Tecnológica
 
 <p align="center">
