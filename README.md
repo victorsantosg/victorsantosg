@@ -15,9 +15,11 @@
   <a href="https://github.com/victorsantosg" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=victorsantosg"></a>
 </p>
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width=400 /></p>
 
 
-<p align="center">
+
+<p align="left">
   💡 Transformando dados em <b>insights estratégicos</b> para tomada de decisão <br/>
   🎯 Foco atual: <b>Análise de Dados aplicada a negócios</b>
 </p>
