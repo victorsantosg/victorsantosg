@@ -15,7 +15,7 @@
   <a href="https://github.com/victorsantosg" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=victorsantosg"></a>
 </p>
 
-<p><img align="right" src="animation_500_kxa883sd (3).gif" alt="adam-pw" width=400 /></p><br/><br/><br/>
+<p><img align="right" src="animation_500_kxa883sd.gif" alt="adam-pw" width=400 /></p><br/><br/><br/>
 
 <p align="left">
   💡 Transformando dados em <b>insights estratégicos</b> para tomada de decisão <br/>
@@ -36,56 +36,13 @@
 
 <p align="center">
 
-**📋 Linguagens de Programação**  
+| 📋 Linguagens de Programação | 🌐 Frontend | ♾️ DevOps | 🎛️ Sistemas Operacionais |
+|-----------------------------|------------|-----------|------------------------|
+| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a> <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a> <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a> | <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a> <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-%23563D7C.svg?logo=react&logoColor=blue"></a> <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=yellow"></a> | <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a> <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a> <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=bitbucket&logoColor=white"></a> | <a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a> <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a> |
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a> 
-<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white"></a> 
-<a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>  
-
-
-**🌐 Tecnologias Frontend**  
-
-<a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a> 
-<a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a> 
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-%23563D7C.svg?logo=react&logoColor=blue"></a> 
-<a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-%23646CFF.svg?logo=vite&logoColor=yellow"></a>  
-
-
-**♾️ DevOps**  
-
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a> 
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a> 
-<a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=bitbucket&logoColor=white"></a>  
-
-
-**🎛️ Sistemas Operacionais**  
-
-<a href="https://www.microsoft.com/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a> 
-<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>  
-
-
-**💻 IDEs / Editores**  
-
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> 
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=green"></a> 
-<a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-000000.svg?logo=replit&logoColor=white"></a>  
-
-
-**🤖 Machine Learning & Bancos de Dados**  
-
-<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a> 
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a> 
-<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a> 
-<a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"></a> 
-<a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a> 
-<a href="https://pyautogui.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/PyAutoGUI-FFD43B?style=for-the-badge&logo=python&logoColor=black"></a>  
-
-
-**📊 Ferramentas de Análise**  
-
-<a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"></a> 
-<a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"></a> 
-<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>  
+| 💻 IDEs / Editores | 👨‍💻 Outros | 🤖 ML, Bancos de Dados & Web Scraping | 📊 Ferramentas de Análise |
+|------------------|------------|------------------------|-------------------------|
+| <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=green"></a> <a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-000000.svg?logo=replit&logoColor=white"></a> | <a href="https://wordpress.org"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white"></a> <a href="https://www.adobe.com/products/photoshop.html"><img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?logo=adobe%20photoshop&logoColor=white"></a> <a href="https://www.gimp.org"><img src="https://img.shields.io/badge/Gimp-%236C6C6C.svg?logo=gimp&logoColor=white"></a> | <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"></a> <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a> <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a> <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"></a> <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a> <a href="https://pyautogui.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/PyAutoGUI-FFD43B?style=for-the-badge&logo=python&logoColor=black"></a> <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"></a> | <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"></a> <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"></a> <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a> |
 
 </p>
 
