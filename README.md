@@ -1,72 +1,90 @@
-# 👋 Olá, eu sou o Victor Santos
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="370" alt="Gif de programador digitando animado"/>
+<h3 align="center">
+  Olá, sou o Victor
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-#### 📊 **Analista de Dados focado em transformar dados em insights estratégicos para tomada de decisão.**
-#### 💡 Apaixonado por unir **tecnologia e negócios**, aplicando Python e ferramentas de IA para impulsionar resultados reais.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20de%20Dados;Conhecimento%20em%20várias%20Tecnologias;Fale%20comigo&center=true&width=440&height=45"></a>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/victorsantosg" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=victorsantosg"></a>
+</p>
 
-## 🧠 Foco atual
 
-> **Análise de Dados aplicada a negócios**
-> Transformando dados em insights estratégicos para tomada de decisão.
 
----
-
-## 🛠 Competências Técnicas
-
-* 🐍 **Python**, **Pandas**, **Plotly**, **SQL**
-* ⚙️ **LabelEncoder**, **Machine Learning**, **PyAutoGUI**
-* 🧹 Tratamento e limpeza de dados
-* 📊 Criação de dashboards e visualizações interativas
-* 🤖 Automação de processos com Python
-* 🧠 Uso de ferramentas de IA para análise e produtividade
-
----
-
-## 💻 Projetos em Destaque
-
-| Projeto                                       | Descrição                                                                          | Link                                                                                 |
-| --------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| 🧩 **Catálogo Bosch**                         | Sistema em Python com interface gráfica para gerenciamento de ECUs automotivas.    | [Ver no GitHub](https://github.com/victorsantosg/cat-logo_bosch)                     |
-| 📈 **Analisando Dados da Empresa**            | Projeto de análise exploratória e visualização de dados para insights de negócios. | [Ver no GitHub](https://github.com/victorsantosg/Analisando_dados_empresa)           |
-| ⚙️ **Automatizando Preenchimento de Tabelas** | Script em Python para automação de tarefas repetitivas e ganho de eficiência.      | [Ver no GitHub](https://github.com/victorsantosg/Automatizando_preenchimento_tabela) |
+<p align="center">
+  💡 Transformando dados em <b>insights estratégicos</b> para tomada de decisão <br/>
+  🎯 Foco atual: <b>Análise de Dados aplicada a negócios</b>
+</p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+### 🚀 Sobre mim
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+🎓 Estudante e entusiasta de tecnologia com foco em **Análise de Dados e Automação**.  
+🔍 Busco extrair valor de dados, criando soluções práticas e visuais que apoiam decisões de negócio.  
+🧠 Atualmente aprendendo mais sobre **Machine Learning**, **Plotly** e **SQL avançado**.  
 
 ---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyAutoGUI-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-### 🚀 Estatísticas do GitHub
-
 <a href="https://github.com/victorsantosg">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorsantosg&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=victorsantosg&theme=radical&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsantosg&layout=compact&theme=radical&hide_border=true" />
 </a>
 
 </div>
 
+---
+
+### 🧩 Projetos em destaque
+
+| Projeto | Descrição | Link |
+|----------|------------|------|
+| 🚗 **ECU Manager** | Sistema de gestão e diagnóstico automotivo | [Acessar repositório](https://github.com/victorsantosg/cat-logo_bosch) |
+| 📊 **Analisando Dados com Python** | Análise de dados empresariais com pandas e visualização | [Acessar repositório](https://github.com/victorsantosg/Analisando_dados_empresa) |
+| ⚙️ **Automação de Cadastros** | Automatização de preenchimento de tabelas com PyAutoGUI | [Acessar repositório](https://github.com/victorsantosg/Automatizando_preenchimento_tabela) |
 
 ---
 
-## 🌐 Onde me encontrar
+### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/victor-santos-0a86021b7)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge\&logo=netlify\&logoColor=white)](https://portfoliovictor.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/victorsantosg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-santos-0a86021b7">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfoliovictor.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+  <a href="https://github.com/victorsantosg">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-> 💬 “Transformar dados em decisões é transformar informação em poder.”
+<p align="center">
+  🌱 “O aprendizado contínuo é o combustível da evolução.”
+</p>
