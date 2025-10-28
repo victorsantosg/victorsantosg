@@ -15,7 +15,7 @@
   <a href="https://github.com/victorsantosg" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=victorsantosg"></a>
 </p>
 
-<p><img align="right" src="animation_500_kxa883sd.gif" alt="adam-pw" width=400 /></p><br/><br/><br/>
+<p><img align="right" src="https://github.com/victorsantosg/victorsantosg/blob/62cbedb9634ee6794df3bc2586e2f4bb643828e2/animation_500_kxa883sd.gif" alt="adam-pw" width=400 /></p><br/><br/><br/>
 
 <p align="left">
   💡 Transformando dados em <b>insights estratégicos</b> para tomada de decisão <br/>
