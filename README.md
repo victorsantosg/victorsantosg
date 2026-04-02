@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20de%20Dados;Conhecimento%20em%20várias%20Tecnologias;Fale%20comigo%20&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Analista%20de%20Desenvolvimento%20de%20Sistemas;Conhecimento%20em%20várias%20Tecnologias;Fale%20comigo%20&center=true&width=440&height=45"></a>
 </p>
 
 <p align="center">
@@ -19,16 +19,16 @@
 
 <p align="left">
   💡 Transformando dados em <b>insights estratégicos</b> para tomada de decisão <br/>
-  🎯 Foco atual: <b>Análise de Dados aplicada a negócios</b>
+  🎯 Foco atual: <b>Desenvolvimento de Sistemas em Next.js, Postgresql, Docker...etc</b>
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-🎓 Profissional e entusiasta de tecnologia com foco em **Análise de Dados e Automação**.  
+🎓 Profissional e entusiasta de tecnologia com foco em **Desenvolvimento de Sistemas e Automação**.  
 🔍 Busco extrair valor de dados, criando soluções práticas e visuais que apoiam decisões de negócio.  
-🧠 Atualmente aprendendo mais sobre **Machine Learning**, **Plotly** e **SQL avançado**.  
+🧠 Atualmente aprendendo mais sobre **Docker**, **Node.js** e **Postgresql**.  
 
 ---
 
